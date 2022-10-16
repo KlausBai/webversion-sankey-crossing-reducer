@@ -1,0 +1,16 @@
+{
+  "name": "webimpl",
+  "version": "1.0.0",
+  "description": "Crossing Reduction of Sankey Diagram with Eigen-centric Layout web version",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Crossing",
+    "Reduction",
+    "web"
+  ],
+  "author": "klausbai",
+  "license": "ISC"
+}
